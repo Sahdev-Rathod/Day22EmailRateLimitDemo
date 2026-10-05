@@ -1,0 +1,6 @@
+@Day22EmailRateLimit_HostAddress = http://localhost:5135
+
+GET {{Day22EmailRateLimit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
